@@ -1,0 +1,58 @@
+body{margin: 0px;
+
+}
+header{background: #7070e0;padding: 40px 0px;}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{}
+nav{
+    width: 80%;
+    float: right;
+}
+nav ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: right;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #16162d;
+    padding: 5px 20px;
+    display: block;
+}
+.banner-section{
+
+}
+.banner-section img{
+    width: 100%;
+}
+.blog-section{}
+article{
+    padding: 100px;
+}
+article span{
+    text-transform: uppercase;
+    color: #0000008c;
+}
+article h1{margin-bottom: 0px;text-transform: capitalize;font-size: 27px;}
+article p{
+    color: #00000082;
+    font-size: 19px;
+}
+article a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #000000a3;
+}
